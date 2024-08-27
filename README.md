@@ -1,4 +1,4 @@
-# Olá, tudo certo? eu sou o Matheus Nascimento 👋
+# Olá, tudo certo? Eu sou o Matheus Nascimento 
 
 ### 🎓 Estudante de Ciência de Dados | Entusiasta de Análise de Dados
 
