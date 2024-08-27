@@ -1,4 +1,4 @@
-# Olá, tudo certo? Eu sou o Matheus Nascimento 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=OLÁ,+Meu+nome+é+Matheus+Nascimento;Data+Scientist;Seja+bem+Vindo!+:%29)](htt ps://git.io/typing-svg)
 
 ### 🎓 Estudante de Ciência de Dados | Entusiasta de Análise de Dados
 
