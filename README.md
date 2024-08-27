@@ -2,8 +2,6 @@
 
 ### 🎓 Estudante de Ciência de Dados | Entusiasta de Análise de Dados
 
-![coding gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 Sou um explorador movido pela curiosidade, viciado em tentar usar a tecnologia para revelar o valor oculto, e informações escondidas nos emaranhados de caracteres que chamamos de dados.
 
 ---
@@ -32,9 +30,9 @@ Sou um explorador movido pela curiosidade, viciado em tentar usar a tecnologia p
 
 ## ⚡ Status do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)](https://github.com/seu-usuario)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheus-nascimento-angelo&show_icons=true&theme=radical)](https://github.com/seu-usuario)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)](https://github.com/seu-usuario)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nascimento-angelo&layout=compact&theme=radical)](https://github.com/seu-usuario)
 
 ---
 
