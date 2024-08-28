@@ -4,14 +4,6 @@
 
 Me considero um explorador movido pela curiosidade, viciado em tentar usar a tecnologia para revelar o valor oculto, e informações escondidas nos emaranhados de caracteres que chamamos de dados.
 
-<table>
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="150" alt="coding gif">
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🔧 Habilidades e Ferramentas
