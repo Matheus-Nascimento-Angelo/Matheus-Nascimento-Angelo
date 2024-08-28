@@ -17,7 +17,6 @@ Me considero um explorador movido pela curiosidade, viciado em tentar usar a tec
     <td><img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"></td>
     <td><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
     <td><img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></td>
-    <td><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></td>
   </tr>
 </table>
 
