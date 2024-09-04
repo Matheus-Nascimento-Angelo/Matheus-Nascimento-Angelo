@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Ciência de Dados | Entusiasta de Análise de Dados
 
-Me considero um explorador movido pela curiosidade, viciado em tentar usar a tecnologia para revelar o valor oculto, e informações escondidas nos emaranhados de caracteres que chamamos de dados.
+Inicindo meus estudos com foco total na área de dados.
 
 ---
 
