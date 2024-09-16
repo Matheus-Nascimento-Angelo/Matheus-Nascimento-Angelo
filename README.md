@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Ciência de Dados | Entusiasta de Análise de Dados
 
-Inicindo meus estudos com foco total na área de dados.
+Iniciando meus estudos com foco total na área de dados.
 
 ---
 
